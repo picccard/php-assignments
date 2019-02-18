@@ -1,0 +1,10 @@
+1. I php er dato-funksjonen innebygd med mye funksjonalitet.
+Ulike bokstaver som argument vil gi ulike resultater.
+
+
+2. Vi ønsker å skrive ut en string og resultatet av funksjonen.
+Men er er strengen lagt inn i funksjonen.
+Dermed vil funksjonen lese alle bokstavene og forsøke
+å omforme bokstavene til datoformater.
+Det som burde stått er:
+echo "I dag er det den " . date("d. M") . "<br>";
