@@ -1,0 +1,5 @@
+Oppgave 1:
+Med å inkludere filer:
+- sparer man tid når man oppretter nye sider
+- ved endring i topp eller bunn trenger man endre en fil, ikke alle sidene
+- modulering skrper bedre oversikt
