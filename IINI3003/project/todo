@@ -1,0 +1,20 @@
+legg til comments på alle filer, forklar at passord er hashet i db
+
+
+legg til psudo kode øverst og forklar tankegang i hver php fil
+
+
+session check https://www.tutorialspoint.com/php/php_mysql_login.htm
+
+page for calculations
+
+page for list all reiseregninger ?sortby=price ?sortby=paid ?sortby=destination bare godta pre godkjente sortby arg   a tag i tabellhode med href php self + ?sortby=noe
+
+page for edit a reiseregninge <--> page for create reiseregning
+                        begge er veldig lik include? lag lur function?
+
+
+
+
+
+plasser alerts i en sidebar eller rett i egen include som siste ting før footer, legg til js som fader vekk varsler
